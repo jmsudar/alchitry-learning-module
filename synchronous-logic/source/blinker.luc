@@ -1,0 +1,13 @@
+module blinker (
+    input clk,   // clock
+    input rst,   // reset
+    output blink // output to LED
+) {
+    
+    dff counter[$is_sim() ? 9 : 25](.clk(clk), .rst(rst))
+    
+    always {
+        blink = counter.q[$is_sim() ? 8 : 24]
+        counter.d = counter.q + 1
+    }
+}
