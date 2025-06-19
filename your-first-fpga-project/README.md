@@ -1,4 +1,4 @@
-# led-blink
+# your-first-fpga-project
 
 [Alchitry Tutorial](https://alchitry.com/tutorials/your-first-fpga-project/)
 [Local Backup](/reference/Your%20First%20FPGA%20Project.pdf)
