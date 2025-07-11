@@ -11,6 +11,7 @@ Storage for Alchitry FPGA introductory coding exercises as I learn my way throug
 5. [ROMs and FSMs](/modules/roms-and-fsms/)
 6. [Hello YOUR_NAME_HERE](/modules/hello-your-name-here/)
 7. [Register Interface](/modules/register-interface/)
+8. [DDR3 Memory](/modules/ddr3-memory/)
 
 ## reference
 
