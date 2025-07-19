@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Jul 15 17:26:57 2025
+# Process ID         : 15324
+# Current directory  : C:/Users/JMSudar/Code/alchitry-learning-module/modules/ddr3-memory/cores/managed_ip_project/managed_ip_project.runs/clk_wiz_0_synth_1
+# Command line       : vivado.exe -log clk_wiz_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_wiz_0.tcl
+# Log file           : C:/Users/JMSudar/Code/alchitry-learning-module/modules/ddr3-memory/cores/managed_ip_project/managed_ip_project.runs/clk_wiz_0_synth_1/clk_wiz_0.vds
+# Journal file       : C:/Users/JMSudar/Code/alchitry-learning-module/modules/ddr3-memory/cores/managed_ip_project/managed_ip_project.runs/clk_wiz_0_synth_1\vivado.jou
+# Running On         : DESKTOP-MBJU2VD
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+# CPU Frequency      : 3392 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 34298 MB
+# Swap memory        : 5100 MB
+# Total Virtual      : 39399 MB
+# Available Virtual  : 30107 MB
+#-----------------------------------------------------------
+source clk_wiz_0.tcl -notrace
