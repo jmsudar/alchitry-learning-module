@@ -1,6 +1,6 @@
 # alchitry-learning-module
 
-Storage for Alchitry FPGA introductory coding exercises as I learn my way through them.
+Storage for Alchitry FPGA introductory coding exercises as I learn my way through them. I make effots to explain what happens in each module, but I am learning this as I go so if you require deep understanding of FPGAs or Alchitry, I suggest you find another source!
 
 ## Progression
 
