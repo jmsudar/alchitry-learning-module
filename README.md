@@ -1,6 +1,6 @@
 # alchitry-learning-module
 
-Storage for Alchitry FPGA introductory coding exercises as I learn my way through them.
+Storage for Alchitry FPGA introductory coding exercises as I learn my way through them. I make effots to explain what happens in each module, but I am learning this as I go so if you require deep understanding of FPGAs or Alchitry, I suggest you find another source!
 
 ## Progression
 
@@ -11,6 +11,7 @@ Storage for Alchitry FPGA introductory coding exercises as I learn my way throug
 5. [ROMs and FSMs](/modules/roms-and-fsms/)
 6. [Hello YOUR_NAME_HERE](/modules/hello-your-name-here/)
 7. [Register Interface](/modules/register-interface/)
+8. [DDR3 Memory](/modules/ddr3-memory/)
 
 ## reference
 
